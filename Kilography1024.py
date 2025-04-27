@@ -79,6 +79,6 @@ def decode(stego):
 
 if __name__ == "__main__":
     if len(sys.argv) != 2:
-        print("Usage: python kilography.py <image.jpg>")
+        print("Usage: python Kilography1024.py <image.jpg>")
     else:
         decode(sys.argv[1])
