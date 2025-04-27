@@ -1,6 +1,10 @@
 # Kilography1024 .gitignore
 # Drift through quietly. Save only what must remain.
 
+# Ignore all JPEG files
+*.jpg
+*.jpeg
+
 # Ignore all markdown files except README.md
 *.md
 !README.md
