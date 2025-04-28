@@ -13,6 +13,11 @@
 venv/
 kilography-env/
 
+# Ignore pyinstaller build files
+build/
+dist/
+*.spec
+
 # Ignore editor folders and system artifacts
 .vscode/
 .DS_Store
